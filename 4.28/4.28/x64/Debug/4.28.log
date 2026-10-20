@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(536,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+C:\Users\user\Desktop\課程\程式\hw1022\4.28\4.28\main.c(23,35): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\課程\程式\hw1022\4.28\4.28\main.c(29,14): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  4.28.vcxproj -> C:\Users\user\Desktop\課程\程式\hw1022\4.28\4.28\x64\Debug\4.28.exe
